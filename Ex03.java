@@ -2,7 +2,6 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("TRIANGLE AREA");
         System.out.println(areaOfTrian(10,12,16));
     }
 }
